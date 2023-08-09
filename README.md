@@ -7,7 +7,7 @@
 - 📫 How to reach me ...
 
 
-# [GitHub Flavored Markdown Spec](/https://github.github.com/gfm/#inline-link "GitHub Flavored Markdown Spec")
+# [GitHub Flavored Markdown Spec](https://github.github.com/gfm/#inline-link "GitHub Flavored Markdown Spec")
 
 <!---
 JisongXuWorkSpace/JisongXuWorkSpace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
