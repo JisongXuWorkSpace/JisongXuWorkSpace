@@ -66,6 +66,9 @@ https://www.it145.com/9/13475.html#:~:text=%E8%AA%9E%E6%B3%95%E8%AA%AA%E6%98%8E%
 
 - [GitHub Flavored Markdown Spec](https://github.github.com/gfm/#inline-link "GitHub Flavored Markdown Spec")
 
+- [Markdown Blog](https://markdown.tw/#link)
+- [Fork chart](http://flowchart.js.org/)
+
 ## Autolink
 this is a e-mail link : <xoosa50913@gmail.com> 
 
@@ -143,6 +146,13 @@ Visit www.commonmark.org/help for more information.
 Visit www.commonmark.org.
 
 Visit www.commonmark.org/a.b.
+
+I get 10 times more traffic from [Google] [1] than from
+[Yahoo] [2] or [MSN] [3].
+
+  [1]: http://google.com/        "Google"
+  [2]: http://search.yahoo.com/  "Yahoo Search"
+  [3]: http://search.msn.com/    "MSN Search"
 
 
 [TOP](#profile)
